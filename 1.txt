@@ -1,5 +1,0 @@
-class Login:
-     def login(self.username, password):
-     self.username=username
-     self.password=password
-     print("login written")
